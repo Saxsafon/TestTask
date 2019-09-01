@@ -1,0 +1,7 @@
+fileName=/main/resources/TextTemplates/SecretaryReport.txt
+
+from = from98@gmail.com
+to = to@gmail.com
+
+username=your login
+password=your password
